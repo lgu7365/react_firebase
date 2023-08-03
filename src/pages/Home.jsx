@@ -3,7 +3,7 @@ import Sidebar from "../components/Sidebar";
 import Chat from "../components/Chat";
 import Chats from "../components/Chats";
 import input from "../components/input";
-import message from "../components/message";
+import Message from "../components/Message";
 import Navbar from "../components/Navbar";
 import Search from "../components/Search";
 
