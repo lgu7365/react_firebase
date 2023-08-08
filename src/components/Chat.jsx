@@ -3,7 +3,7 @@ import Cam from "../img/cam.png";
 import Add from "../img/add.png";
 import More from "../img/more.png";
 import Messages from "./Messages";
-import input from "./input";
+import Input from "./input";
 
 const Chat = () => {
     return (
@@ -17,7 +17,7 @@ const Chat = () => {
                 </div>
             </div>
             <Messages />
-            <input />
+            <Input />
         </div>
     )
 }
